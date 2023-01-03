@@ -1,0 +1,54 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+
+const {frontmatter} = Astro.props;
+
+---
+
+<style>
+	#hero {
+		animation: jiggle_hero 50s linear alternate infinite;
+	}
+
+	h1, h2 {
+		background-color: rgba(18, 15, 5, 0.4);
+		padding: 10px;
+	}
+
+	@keyframes jiggle_hero {
+		50% {
+			object-position: 5% 5%;
+		}
+	}
+</style>
+
+<html lang="en">
+	<BaseHead subtitle="Syllabus" />
+
+	<body>
+		<div class="w-screen h-screen static flex items-center">
+			<img
+				src={frontmatter.coverImage}
+				alt=""
+				class="absolute w-full h-full object-cover object-center"
+				id="hero"
+			/>
+			<div class="mx-auto">
+				<h1
+				class="text-white text-xl md:text-6xl text-center font-bold uppercase tracking-widest drop-shadow-lg mb-3"
+			>
+				{frontmatter.title}
+			</h1>
+			<h2 class="text-white text-lg font-bold drop-shadow-lg text-center">{frontmatter.subtitle}</h2>
+			</div>
+
+		</div>
+
+		<div class="container mx-auto">
+			<div class="p-8 content">
+				<slot />
+			</div>
+		</div>
+
+	</body>
+</html>
