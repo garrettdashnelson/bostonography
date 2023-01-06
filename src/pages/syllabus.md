@@ -11,7 +11,7 @@ Uses Boston as a case study for integrating computational methods with the socia
 
 Northeastern University · INSH 2102
 
-**Instructors:** Prof. [Jessica Parr](mailto:j.parr@northeastern.edu) & Prof. [Garrett Dash Nelson](mailto:g.nelson@northeastern.edu)
+**Instructors:** Prof. [Jessica Parr](mailto:j.parr@northeastern.edu) & Prof. Garrett Dash Nelson ([email](mailto:g.nelson@northeastern.edu); [website](http://people.matinic.us/garrett/))
 
 **Credits:** 4
 
