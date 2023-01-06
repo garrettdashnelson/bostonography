@@ -40,13 +40,16 @@ Northeastern University · INSH 2102
 #### Week 3: Catalogs & Archives
 
 * **Mon, Jan 23**
-    * 👋 Visit: Northeastern U. Archives & Special Collections
+    * 📖 Reading: Farge, _The Allure of Archives_, pp. ix-17
+    * 📺 Viewing: [What Are Archives? Animating The Archives](https://www.youtube.com/watch?v=QNN2LFe_iD8)
+    * 🔨 Tool: Omeka Demo
 * **Wed, Jan 25**
     * 🎨 Lab Exercise: Analyzing the LMEC's Boston Map Collections
 
 #### Week 4: Data Ontologies & Databases
 
 * **Mon, Jan 30**
+    * 📖 Reading: [Taxonomy vs Ontology: Machine Learning Breakthroughs](https://www.dataversity.net/taxonomy-vs-ontology-machine-learning-breakthroughs/) - DATAVERSITY 
 * **Wed, Feb 1**
 
 #### Week 5: Big Data vs. Big Evidence
@@ -57,12 +60,15 @@ Northeastern University · INSH 2102
 #### Week 6: Images
 
 * **Mon, Feb 13**
+    * 🔨 Tool: ThingLink
 * **Wed, Feb 15**
     * 🎨 Lab Exercise: IIIF and Georeferencing
 
 #### Week 7: Maps
 
 * **Mon, Feb 21**
+    * NULab projects
+    * 🔨 Tool: StoryMaps
 * **Wed, Feb 23**
     * 🎨 Lab Exercise: Annotating a Fire Insurance Map
 
@@ -83,6 +89,7 @@ Northeastern University · INSH 2102
 #### Week 10: Textual Analysis
 
 * **Mon, Mar 20**
+    * Textual Analysis Workshop with Lexos
 * **Wed, Mar 22**
     * 👋 Visit: Andy Woodruff, co-founder of [_Bostonography_](https://bostonography.com) blog and 2023 LMEC Designer-in-Residence
 
