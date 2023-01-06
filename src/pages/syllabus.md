@@ -44,13 +44,16 @@ Northeastern University · INSH 2102
     * 📺 Viewing: [What Are Archives? Animating The Archives](https://www.youtube.com/watch?v=QNN2LFe_iD8)
     * 🔨 Tool: Omeka Demo
 * **Wed, Jan 25**
-    * 🎨 Lab Exercise: Analyzing the LMEC's Boston Map Collections
+    * 📖 Reading: Shannon Mattern, "[Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/)," _Places Journal_ (June 2014). **Free online journal.**
+    * 📖 Reading: Flip through [_List of maps of Boston published subsequent to 1600: copies of which are to be found in the possession of the city of Boston or other collectors of the same_](https://archive.org/details/listofmapsofbost00bost_1) (Boston: Municipal Printing Office, 1904). **Digitized at Internet Archive.**
+    * 🎨 Lab Exercise: Analyzing LMEC Digital Collections Catalog and Search API
 
 #### Week 4: Data Ontologies & Databases
 
 * **Mon, Jan 30**
     * 📖 Reading: [Taxonomy vs Ontology: Machine Learning Breakthroughs](https://www.dataversity.net/taxonomy-vs-ontology-machine-learning-breakthroughs/) - DATAVERSITY 
 * **Wed, Feb 1**
+    * 📖 Reading: Helen Couclelis, "Unpacking the “I” in GIS: Information, Ontology, and the Geographic World," in _The Philosophy of GIS_ (Springer, 2019), pp. 3–24. **PDF on Canvas**
 
 #### Week 5: Big Data vs. Big Evidence
 
