@@ -59,12 +59,14 @@ Northeastern University · INSH 2102
 
 * **Mon, Feb 7**
 * **Wed, Feb 9**
+    * 📖 Reading: Rob Kitchin, "[Big Data, new epistemologies and paradigm shifts]," _Big Data & Society_ 1, no. 1 (April 2014), [doi:10.1177/2053951714528481](https://doi.org/10.1177/2053951714528481). **PDF on Canvas.**
 
 #### Week 6: Images
 
 * **Mon, Feb 13**
     * 🔨 Tool: ThingLink
 * **Wed, Feb 15**
+    * 📖 Reading: Excerpt from Kevin Lynch, _The Image of the City_ (MIT Press, 1960). **PDF on Canvas.**
     * 🎨 Lab Exercise: IIIF and Georeferencing
 
 #### Week 7: Maps
@@ -73,12 +75,14 @@ Northeastern University · INSH 2102
     * NULab projects
     * 🔨 Tool: StoryMaps
 * **Wed, Feb 23**
+    * 📖 Reading: Matthew Knutzen, "Unbinding the Atlas: Moving the NYPL Map Collection Beyond Digitization," _Journal of Map & Geography Libraries_ 9 (2013), [doi:10.1080/15420353.2012.726204](https://doi.org/10.1080/15420353.2012.726204)
     * 🎨 Lab Exercise: Annotating a Fire Insurance Map
 
 #### Week 8: Places & Spaces
 
 * **Mon, Feb 27**
 * **Wed, Mar 1**
+    * 📖 Reading: Excerpts from _The Quarantine Atlas_
     * 👋 Visit: Laura Bliss, editor of _The Quarantine Atlas_
 
 #### *Spring Break*
