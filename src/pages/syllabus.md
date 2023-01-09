@@ -17,7 +17,7 @@ Northeastern University · INSH 2102
 
 **Office Hours**: 
 
-* Prof. Parr:
+* Prof. Parr: Mon, 11-12:30 (In Meserve 221, or virtually be request)
 * Prof. Nelson: Fridays, 12 pm  – 2 pm (at the Boston Public Library and virtually)
 
 **Course Website:** https://bostonography.netlify.app and [Canvas](https://northeastern.instructure.com/courses/134129)
@@ -40,7 +40,7 @@ Northeastern University · INSH 2102
 #### Week 3: Catalogs & Archives
 
 * **Mon, Jan 23**
-    * 📖 Reading: Farge, _The Allure of Archives_, pp. ix-17
+    * 📖 Reading: Farge, _The Allure of Archives_, pp. ix-17 **PDF on Canvas**
     * 📺 Viewing: [What Are Archives? Animating The Archives](https://www.youtube.com/watch?v=QNN2LFe_iD8)
     * 🔨 Tool: Omeka Demo
 * **Wed, Jan 25**
@@ -58,12 +58,15 @@ Northeastern University · INSH 2102
 #### Week 5: Big Data vs. Big Evidence
 
 * **Mon, Feb 7**
+    * 📖 Reading: Graham, et al, Exploring Big Historical Data: The Historian's Macroscope, Ch. 1. **PDF on Canvas.**
 * **Wed, Feb 9**
     * 📖 Reading: Rob Kitchin, "[Big Data, new epistemologies and paradigm shifts]," _Big Data & Society_ 1, no. 1 (April 2014), [doi:10.1177/2053951714528481](https://doi.org/10.1177/2053951714528481). **PDF on Canvas.**
 
 #### Week 6: Images
 
 * **Mon, Feb 13**
+   * 📖 Reading: A.A. GOODRUM1, B.C. O’CONNOR2 and J.M. TURNER, Introduction to Special Topic Issue of Computers
+and the Humanities: “Digital Images,” Computers and the Humanities 33: 291–292, 1999. Kristen M.Schuster and Sarah L.Gilli, Digital Humanities and Image Metadata: Improving Access Through Shared Practices," Digital Humanities, Librareis, and Partnerships, pp 107-123. **PDFS on Canvas.** 
     * 🔨 Tool: ThingLink
 * **Wed, Feb 15**
     * 📖 Reading: Excerpt from Kevin Lynch, _The Image of the City_ (MIT Press, 1960). **PDF on Canvas.**
@@ -72,7 +75,8 @@ Northeastern University · INSH 2102
 #### Week 7: Maps
 
 * **Mon, Feb 21**
-    * NULab projects
+   * 📖 Reading: Dunn, A History of Place in the Digital Age, Ch. 1 **PDF on Canvas**
+    * NULab projects: See Canvas for Links
     * 🔨 Tool: StoryMaps
 * **Wed, Feb 23**
     * 📖 Reading: Matthew Knutzen, "Unbinding the Atlas: Moving the NYPL Map Collection Beyond Digitization," _Journal of Map & Geography Libraries_ 9 (2013), [doi:10.1080/15420353.2012.726204](https://doi.org/10.1080/15420353.2012.726204)
@@ -81,6 +85,7 @@ Northeastern University · INSH 2102
 #### Week 8: Places & Spaces
 
 * **Mon, Feb 27**
+    * 📖 Reading: Panofsky, et al, ed, Mapping Tags and Tagging Maps **PDF on Canvas**
 * **Wed, Mar 1**
     * 📖 Reading: Excerpts from _The Quarantine Atlas_
     * 👋 Visit: Laura Bliss, editor of _The Quarantine Atlas_
@@ -90,6 +95,7 @@ Northeastern University · INSH 2102
 #### Week 9: Text & Shapes From Images & Maps
 
 * **Mon, Mar 13**
+   * 📖 Reading: Dunn, A History of Place in the Digital Age, Ch. 4 **PDF on Canvas**
 * **Wed, Mar 15**
     * 🎨 Lab Exercise: Machines Reading Maps
 
@@ -108,6 +114,7 @@ Northeastern University · INSH 2102
 #### Week 12: Stories & Meaning
 
 * **Mon, Apr 3**
+ * 📖 Reading: Kris Scott, The Digital City and Mediated Urban Ecologies, pp. 13-40 **PDF on Canvas**
 * **Wed, Apr 5**
     * 🎨 Lab Exercise: Atlascope Tour
 
