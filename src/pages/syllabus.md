@@ -11,7 +11,7 @@ Uses Boston as a case study for integrating computational methods with the socia
 
 Northeastern University · INSH 2102
 
-**Instructors:** Prof. [Jessica Parr](mailto:j.parr@northeastern.edu) & Prof. Garrett Dash Nelson ([email](mailto:g.nelson@northeastern.edu); [website](http://people.matinic.us/garrett/))
+**Instructors:** Prof. [Jessica Parr](mailto:j.parr@northeastern.edu); [website](https://jessicaparr.org/)) & Prof. Garrett Dash Nelson ([email](mailto:g.nelson@northeastern.edu); [website](http://people.matinic.us/garrett/))
 
 **Credits:** 4
 
@@ -75,7 +75,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 #### Week 7: Maps
 
 * **Mon, Feb 21**
-   * 📖 Reading: Dunn, A History of Place in the Digital Age, Ch. 1 **PDF on Canvas**
+   * 📖 Reading: Dunn, _A History of Place in the Digital Age_ (Routledge, 2020), Ch. 1 **PDF on Canvas**
     * NULab projects: See Canvas for Links
     * 🔨 Tool: StoryMaps
 * **Wed, Feb 23**
@@ -85,7 +85,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 #### Week 8: Places & Spaces
 
 * **Mon, Feb 27**
-    * 📖 Reading: Panofsky, et al, ed, Mapping Tags and Tagging Maps **PDF on Canvas**
+    * 📖 Reading: Panofsky, et al, ed, "Mapping Tags and Tagging Maps" **PDF on Canvas**
 * **Wed, Mar 1**
     * 📖 Reading: Excerpts from _The Quarantine Atlas_
     * 👋 Visit: Laura Bliss, editor of _The Quarantine Atlas_
@@ -95,13 +95,15 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 #### Week 9: Text & Shapes From Images & Maps
 
 * **Mon, Mar 13**
-   * 📖 Reading: Dunn, A History of Place in the Digital Age, Ch. 4 **PDF on Canvas**
+   * 📖 Reading: Dunn, _A History of Place in the Digital Age_ (Routledge, 2020), Ch. 4 **PDF on Canvas**
 * **Wed, Mar 15**
     * 🎨 Lab Exercise: Machines Reading Maps
 
 #### Week 10: Textual Analysis
 
 * **Mon, Mar 20**
+    * 📖 Reading: Underwood, [Where to Start with Text Mining](https://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/)); Schmidt, [Comparing Corpuses by Word Use](http://sappingattention.blogspot.com/2011/10/comparing-corpuses-by-word-use.html))
+    * 📺 Viewing: [Posner, Textual Analysis: A Walking Tour](https://www.youtube.com/watch?v=X5eAULsBm0w)) 
     * Textual Analysis Workshop with Lexos
 * **Wed, Mar 22**
     * 👋 Visit: Andy Woodruff, co-founder of [_Bostonography_](https://bostonography.com) blog and 2023 LMEC Designer-in-Residence
