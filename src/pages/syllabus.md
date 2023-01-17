@@ -117,6 +117,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 
 * **Mon, Apr 3**
  * 📖 Reading: Kris Scott, The Digital City and Mediated Urban Ecologies, pp. 13-40 **PDF on Canvas**
+   * 👋 Visit: Kris Erickson (Kris Scott), Simmons University.
 * **Wed, Apr 5**
     * 🎨 Lab Exercise: Atlascope Tour
 
