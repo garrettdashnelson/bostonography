@@ -17,7 +17,7 @@ Northeastern University · INSH 2102
 
 **Office Hours**: 
 
-* Prof. Parr: Mon, 11-12:30 (In Meserve 221, or virtually be request)
+* Prof. Parr: Mon, 11-12:30 (In Meserve 221, or virtually by request)
 * Prof. Nelson: Fridays, 12 pm  – 2 pm (at the Boston Public Library and virtually)
 
 **Course Website:** https://bostonography.netlify.app and [Canvas](https://northeastern.instructure.com/courses/134129)
@@ -74,7 +74,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 
 #### Week 7: Maps
 
-* **Mon, Feb 20** **No Class - Presidents Day**
+* **Mon, Feb 20** _Presidents Day — No class_
 * **Wed, Feb 23**
     * 📖 Reading: Matthew Knutzen, "Unbinding the Atlas: Moving the NYPL Map Collection Beyond Digitization," _Journal of Map & Geography Libraries_ 9 (2013), [doi:10.1080/15420353.2012.726204](https://doi.org/10.1080/15420353.2012.726204)
     * 🎨 Lab Exercise: Annotating a Fire Insurance Map
@@ -125,8 +125,8 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 * **Wed, Apr 12**
 
 #### Week 14: Conclusion
-
-* **Mon, Apr 17**
+ 
+* **Mon, Apr 17** _Patriots Day — No class_
 * **Wed, Apr 19**
 
 # About the class
