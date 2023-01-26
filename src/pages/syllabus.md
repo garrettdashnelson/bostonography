@@ -74,10 +74,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 
 #### Week 7: Maps
 
-* **Mon, Feb 21**
-   * 📖 Reading: Dunn, _A History of Place in the Digital Age_ (Routledge, 2020), Ch. 1 **PDF on Canvas**
-    * NULab projects: See Canvas for Links
-    * 🔨 Tool: StoryMaps
+* **Mon, Feb 20** **No Class - Presidents Day**
 * **Wed, Feb 23**
     * 📖 Reading: Matthew Knutzen, "Unbinding the Atlas: Moving the NYPL Map Collection Beyond Digitization," _Journal of Map & Geography Libraries_ 9 (2013), [doi:10.1080/15420353.2012.726204](https://doi.org/10.1080/15420353.2012.726204)
     * 🎨 Lab Exercise: Annotating a Fire Insurance Map
@@ -123,7 +120,8 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 
 #### Week 13: Distortion & Deception
 
-* **Mon, Apr 10**
+* **Mon, Apr 10** 
+ * 📖 Reading: Gupta, et al, "Examining Map Projections and Distortions Using Geospatial Web Tools," and Bishop, "A Primer on Graphic Representation" **PDFs on Canvas**
 * **Wed, Apr 12**
 
 #### Week 14: Conclusion
