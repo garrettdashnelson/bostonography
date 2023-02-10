@@ -69,15 +69,14 @@ Northeastern University · INSH 2102
 and the Humanities: “Digital Images,” Computers and the Humanities 33: 291–292, 1999. Kristen M.Schuster and Sarah L.Gilli, Digital Humanities and Image Metadata: Improving Access Through Shared Practices," Digital Humanities, Librareis, and Partnerships, pp 107-123. **PDFS on Canvas.** 
     * 🔨 Tool: ThingLink
 * **Wed, Feb 15**
-    * 📖 Reading: Excerpt from Kevin Lynch, _The Image of the City_ (MIT Press, 1960). **PDF on Canvas.**
+    * 📖 Reading: Matthew Knutzen, "Unbinding the Atlas: Moving the NYPL Map Collection Beyond Digitization," _Journal of Map & Geography Libraries_ 9 (2013), [doi:10.1080/15420353.2012.726204](https://doi.org/10.1080/15420353.2012.726204) **PDF on Canvas.**
     * 🎨 Lab Exercise: IIIF and Georeferencing
 
 #### Week 7: Maps
 
 * **Mon, Feb 20** _Presidents Day — No class_
 * **Wed, Feb 23**
-    * 📖 Reading: Matthew Knutzen, "Unbinding the Atlas: Moving the NYPL Map Collection Beyond Digitization," _Journal of Map & Geography Libraries_ 9 (2013), [doi:10.1080/15420353.2012.726204](https://doi.org/10.1080/15420353.2012.726204)
-    * 🎨 Lab Exercise: Annotating a Fire Insurance Map
+    * 🎨 Lab Exercise
 
 #### Week 8: Places & Spaces
 
@@ -86,6 +85,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 * **Wed, Mar 1**
     * 📖 Reading: Excerpts from _The Quarantine Atlas_
     * 👋 Visit: Laura Bliss, editor of _The Quarantine Atlas_
+    * 🎨 Lab Exercise: Annotating a Fire Insurance Map
 
 #### *Spring Break*
 
@@ -93,6 +93,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 
 * **Mon, Mar 13**
    * 📖 Reading: Dunn, _A History of Place in the Digital Age_ (Routledge, 2020), Ch. 4 **PDF on Canvas**
+   * 🎨 Lab Exercise: Atlascope Tour
 * **Wed, Mar 15**
     * 🎨 Lab Exercise: Machines Reading Maps
 
@@ -116,7 +117,6 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
  * 📖 Reading: Kris Scott, The Digital City and Mediated Urban Ecologies, pp. 13-40 **PDF on Canvas**
    * 👋 Visit: Kris Erickson (Kris Scott), Simmons University.
 * **Wed, Apr 5**
-    * 🎨 Lab Exercise: Atlascope Tour
 
 #### Week 13: Distortion & Deception
 
