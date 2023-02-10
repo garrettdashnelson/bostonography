@@ -72,11 +72,12 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
     * 📖 Reading: Matthew Knutzen, "Unbinding the Atlas: Moving the NYPL Map Collection Beyond Digitization," _Journal of Map & Geography Libraries_ 9 (2013), [doi:10.1080/15420353.2012.726204](https://doi.org/10.1080/15420353.2012.726204) **PDF on Canvas.**
     * 🎨 Lab Exercise: IIIF and Georeferencing
 
-#### Week 7: Maps
+#### Week 7: Encoding Text
 
 * **Mon, Feb 20** _Presidents Day — No class_
 * **Wed, Feb 23**
-    * 🎨 Lab Exercise
+    * 📖 Reading: [A Gentle Introduction to TEI](https://tei-c.org/Vault/Tutorials/mueller-index.htm)
+    * 🎨 Lab Exercise: TEI with Oxygen. Download a free 30 day trial if you don't already have the software. [Oxygen Downloads](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html)
 
 #### Week 8: Places & Spaces
 
