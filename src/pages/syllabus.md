@@ -84,7 +84,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 * **Mon, Feb 27**
     * 📖 Reading: Panofsky, et al, ed, "Mapping Tags and Tagging Maps" **PDF on Canvas**
 * **Wed, Mar 1**
-    * 📖 Reading: Excerpts from _The Quarantine Atlas_
+    * 📖 Reading: Richard Harris, "Reading Sanborns for the Spoor of the Owner-Builder, 1890s-1950s", _Perspectives in Vernacular Architecture_ 7 (1997), pp. 251-267. **PDF on Canvas.**
     * 👋 Visit: Laura Bliss, editor of _The Quarantine Atlas_
     * 🎨 Lab Exercise: Annotating a Fire Insurance Map
 
