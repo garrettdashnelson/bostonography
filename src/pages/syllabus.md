@@ -93,9 +93,8 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 
 * **Mon, Mar 13**
    * 📖 Reading: Dunn, _A History of Place in the Digital Age_ (Routledge, 2020), Ch. 4 **PDF on Canvas**
-   * 🎨 Lab Exercise: Atlascope Tour
 * **Wed, Mar 15**
-    * 🎨 Lab Exercise: Machines Reading Maps
+   * 🎨 Lab Exercise: Atlascope Tour
 
 #### Week 10: Textual Analysis
 
@@ -104,7 +103,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
     * 📺 Viewing: [Posner, Textual Analysis: A Walking Tour](https://www.youtube.com/watch?v=X5eAULsBm0w)) 
     * Textual Analysis Workshop with Lexos
 * **Wed, Mar 22**
-    * 👋 Visit: Andy Woodruff, co-founder of [_Bostonography_](https://bostonography.com) blog and 2023 LMEC Designer-in-Residence
+    * 🎨 Lab Exercise: Machines Reading Maps
 
 #### Week 11: Relationships, Networks, Patterns
 
@@ -123,6 +122,7 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 * **Mon, Apr 10** 
  * 📖 Reading: Gupta, et al, "Examining Map Projections and Distortions Using Geospatial Web Tools," and Bishop, "A Primer on Graphic Representation" **PDFs on Canvas**
 * **Wed, Apr 12**
+    * 👋 Visit to BPL: Andy Woodruff, co-founder of [_Bostonography_](https://bostonography.com) blog and 2023 LMEC Designer-in-Residence
 
 #### Week 14: Conclusion
  
