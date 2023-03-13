@@ -18,7 +18,7 @@ Northeastern University · INSH 2102
 **Office Hours**: 
 
 * Prof. Parr: Mon, 11-12:30 (In Meserve 221, or virtually by request)
-* Prof. Nelson: Fridays, 12 pm  – 2 pm (at the Boston Public Library and virtually)
+* Prof. Nelson: Fridays, 12 pm  – 2 pm (at the Boston Public Library and virtually) - [Sign up for office hours online](https://outlook.office.com/bookwithme/user/27f6c6ea641b47ae9b0a1e5ee1f74633@leventhalmap.org/meetingtype/umcPh0DWZEy-Qu50YXrTlA2?anonymous)
 
 **Course Website:** https://bostonography.netlify.app and [Canvas](https://northeastern.instructure.com/courses/134129)
 
