@@ -108,6 +108,8 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
 #### Week 11: Relationships, Networks, Patterns
 
 * **Mon, Mar 27**
+    * 📖 Reading:Grandjean, A Social Network Analysis of Twitter: Mapping the Digital Humanities Community **PDF on Canvas**
+
 * **Wed, Mar 29**
 
 #### Week 12: Stories & Meaning
