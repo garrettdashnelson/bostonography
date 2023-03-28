@@ -103,14 +103,15 @@ and the Humanities: “Digital Images,” Computers and the Humanities 33: 291�
     * 📺 Viewing: [Posner, Textual Analysis: A Walking Tour](https://www.youtube.com/watch?v=X5eAULsBm0w)) 
     * Textual Analysis Workshop with Lexos
 * **Wed, Mar 22**
-    * 🎨 Lab Exercise: Machines Reading Maps
+    * In class: 20th Century Maps and Texts
 
 #### Week 11: Relationships, Networks, Patterns
 
 * **Mon, Mar 27**
     * 📖 Reading:Grandjean, A Social Network Analysis of Twitter: Mapping the Digital Humanities Community; and Painter, et al, "Network Analysis for the Digital Humanities: Principles, Problems, Extensions" **PDFs on Canvas**
 
-* **Wed, Mar 29**
+* **Wed, Mar 29**: Meeting remotely via Zoom
+   * 🎨 Lab Exercise: Machines Reading Maps
 
 #### Week 12: Stories & Meaning
 
